@@ -1,4 +1,4 @@
-# License-Plate-Recognition
+# License Plate Detection
 teach YOLOv5 for license plate recognition
 
 You can see my report in the link below
